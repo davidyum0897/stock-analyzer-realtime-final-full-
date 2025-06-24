@@ -1,0 +1,4 @@
+▶ 실행 방법
+
+1. 아래 명령어로 실행:
+   streamlit run app.py
